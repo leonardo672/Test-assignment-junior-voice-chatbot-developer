@@ -3,8 +3,12 @@
 ## Creating a detailed dialogue scenario
 Using a visual flowchart-based platform, design a detailed script for an outbound call aimed at selling a financial product. The script should include multiple dialogue branches to cover various possible client responses, objections, and clarifying questions. It should start with a greeting and end with the conclusion of the conversation.
 
+- **Before optimizing phrasing:** [View board](https://boards.yandex.ru/whiteboard/?hash=79ad14cd4e0cd6573b7a22bce417419c)
+
 ## Optimizing phrasing
 Rewrite all phrases in your script so that they sound as friendly, persuasive, and goal-oriented as possible.
+
+- **After optimizing phrasing:** [View board](https://boards.yandex.ru/whiteboard/?hash=caea9f23f959d3fcc6a3535de37bf04f)
 
 ## List of common client questions
 Prepare a list of typical questions or remarks that may arise during such a conversation, regardless of the product or service. For example:
@@ -26,8 +30,12 @@ Prepare a list of typical questions or remarks that may arise during such a conv
 ## Построение детализированного сценария диалога
 Используя визуальную платформу на основе блок-схем, разработайте подробный сценарий исходящего звонка с целью продажи финансового продукта. Скрипт должен включать несколько веток диалога для различных возможных ответов клиента, возражений и уточняющих вопросов. Начало — приветствие, конец — завершение разговора.
 
+- **До оптимизации формулировок:** [Посмотреть схему](https://boards.yandex.ru/whiteboard/?hash=79ad14cd4e0cd6573b7a22bce417419c)
+
 ## Оптимизация формулировок
 Перепишите все фразы в вашем скрипте так, чтобы они звучали максимально дружелюбно, убедительно и были нацелены на достижение цели.
+
+- **После оптимизации формулировок:** [Посмотреть схему](https://boards.yandex.ru/whiteboard/?hash=caea9f23f959d3fcc6a3535de37bf04f)
 
 ## Список типовых вопросов клиента
 Подготовьте список часто встречающихся вопросов или реплик, которые могут возникнуть в ходе такого разговора, независимо от продукта или услуги. Например:
